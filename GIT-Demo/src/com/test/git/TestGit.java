@@ -6,7 +6,7 @@ public class TestGit {
 		System.out.println("Test git");
 		System.out.println("Test git 2");
 		System.out.println("Test git 3");
-
+		System.out.println("Test git 4");
 	}
 
 }
