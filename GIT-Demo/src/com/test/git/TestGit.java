@@ -7,6 +7,7 @@ public class TestGit {
 		System.out.println("Test git 2");
 		System.out.println("Test git 3");
 		System.out.println("Test git 4");
+		System.out.println("Test git 5");
 		
 		ChangeData data = new ChangeData();
 		data.display();
